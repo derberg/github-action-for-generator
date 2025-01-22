@@ -52,12 +52,25 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "Shurtu-gal",
+      "name": "Ashish Padhy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100484401?v=4",
+      "profile": "http://ashishpadhy.live",
+      "contributions": [
+        "code",
+        "test",
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "github-action-for-generator",
+  "projectName": "github-action-for-cli",
   "projectOwner": "asyncapi",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
